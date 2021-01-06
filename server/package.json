@@ -5,7 +5,7 @@
   "author": "Eugen Istoc <eugenistoc@gmail.com> (http://eugenistoc.com/)",
   "license": "MIT",
   "dependencies": {
-    "axios": "0.18.0",
+    "axios": "0.21.1",
     "hapi": "17.3.1"
   }
 }
